@@ -1,9 +1,0 @@
-README
-
-"Automatic Color Correction for 3D Reconstruction of Underwater Scenes" (Katherine A. Skinner, Eduardo Iscar, Matthew Johnson-Roberson). In IEEE International Conference on Robotics and Automation, 2017. 
-
-Sample images: UWbundle-data.tar.gz
-Calibration: CAL_prosilica_inverse.calib
-Ground truth model: 
-
-Please see the project page (https://github.com/kskin/UWbundle) for more details.
